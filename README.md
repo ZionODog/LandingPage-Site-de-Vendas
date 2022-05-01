@@ -1,5 +1,5 @@
-# LandingPage01-Site de Vendas
-# Este projeto é um site fictício de uma loja de tênis de basquete.
+# LandingPage - Site de Vendas
+Este projeto é um site fictício de uma loja de tênis de basquete.
 <p>Desenvolvido com: 
 <div style="display: inline_block" >
     <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
